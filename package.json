@@ -1,0 +1,22 @@
+{
+  "name": "slides",
+  "version": "1.0.0",
+  "description": "my slides",
+  "main": "index.js",
+  "scripts": {
+    "start": "reveal-md -w --theme night"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymtszw/slides.git"
+  },
+  "author": "ymtszw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ymtszw/slides/issues"
+  },
+  "homepage": "https://github.com/ymtszw/slides#readme",
+  "devDependencies": {
+    "reveal-md": "^0.5.0"
+  }
+}
