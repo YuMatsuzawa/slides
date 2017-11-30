@@ -1,7 +1,7 @@
 # slides
 
 - By [@ymtszw](https://twitter.com/gada_twt)
-- [Amazon Dynamo](/amazon-dynamo)
+- [Amazon Dynamo](/slides/amazon-dynamo)
 
 ---
 
