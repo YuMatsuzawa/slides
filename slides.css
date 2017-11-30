@@ -2,14 +2,36 @@
   font-size: 32px;
 }
 
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  font-family: Impact, sans-serif;
+}
+
 .reveal ul {
-  font-size: 80%;
+  font-size: 90%;
 }
 
-.reveal ul ul {
-  font-size: 80%;
+.reveal code {
+  background-color: chocolate;
+  padding: 0 0.2em;
+  border-radius: 0.1em;
 }
 
-.reveal ul ul ul {
-  font-size: 80%;
+.reveal blockquote {
+  width: auto;
+  color: dimgray;
+}
+
+.reveal section.list-to-left ul {
+  float: left;
+  max-width: 50%;
+}
+
+.reveal .MathJax {
+  background-color: rgba(0, 128, 128, 0.2);
+  padding: 0 0.2em;
+  border-radius: 0.1em;
+}
+
+.reveal .slide-background.present {
+  opacity: 0.2;
 }

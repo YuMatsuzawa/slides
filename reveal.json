@@ -1,0 +1,7 @@
+{
+  "transitionSpeed": "fast",
+  "slideNumber": true,
+  "math": {
+    "config": "TeX-AMS-MML_HTMLorMML-full"
+  }
+}
