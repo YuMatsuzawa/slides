@@ -11,7 +11,8 @@
 }
 
 .reveal code {
-  background-color: chocolate;
+  font-family: Monaco, Courier, monospace;
+  background-color: lightslategray;
   padding: 0 0.2em;
   border-radius: 0.1em;
 }

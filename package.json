@@ -4,10 +4,10 @@
   "description": "my slides",
   "main": "index.js",
   "scripts": {
-    "start": "reveal-md -w --theme night --css ./slides.css",
+    "start": "reveal-md -w --theme night --css slides.css",
     "build": "./build.sh",
-    "start:static": "http-server ./docs",
-    "clean": "rm -rf ./docs"
+    "start:static": "http-server docs",
+    "clean": "rm -rf docs"
   },
   "repository": {
     "type": "git",
