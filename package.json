@@ -4,7 +4,7 @@
   "description": "my slides",
   "main": "index.js",
   "scripts": {
-    "start": "reveal-md -w --theme night"
+    "start": "reveal-md -w --theme night --css slides.css"
   },
   "repository": {
     "type": "git",
