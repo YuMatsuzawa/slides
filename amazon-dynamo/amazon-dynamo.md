@@ -15,8 +15,6 @@
 
 ---
 
-<!-- .slide: data-background="./paper.png" -->
-
 ## [Dynamo: Amazon’s Highly Available Key-value Store](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 
 - まず、<u>**DynamoとDynamoDBは別物。**</u>
@@ -562,7 +560,7 @@ Note: Performance, durability, consistency, availabilityのバランスを取り
     - 同様の理屈でバックアップも容易。ファイル単位でガバッとアーカイブ
     - 弱点は、membership changeの際の制約が増えること（$Q/S$ tokens per nodeに近づけるため）
 
-![Figure 7](sosp-figure7-small.png)
+![Figure 7](./sosp-figure7-small.png)
 
 ----
 
@@ -654,7 +652,7 @@ Note: Performance, durability, consistency, availabilityのバランスを取り
 
 ----
 
-<!-- .slide: data-background="./voldemort.jpg" -->
+<!-- .slide: data-background="http://www.todayupfeed.com/wp-content/uploads/2017/08/voldemort.jpg" -->
 
 ## Followers: Voldemort
 
