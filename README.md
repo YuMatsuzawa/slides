@@ -2,7 +2,8 @@
 
 - By [@ymtszw](https://twitter.com/gada_twt)
 - [Amazon Dynamo](https://ymtszw.github.io/slides/amazon-dynamo)
-- [Elmはいいぞ](https://ymtszw.github.io/elm-slides/#delightful_elm.md)
+- [Elm はいいぞ](https://ymtszw.github.io/elm-slides/#delightful_elm.md)
+- [Let Dialyzer Work](https://ymtszw.github.io/slides/let_dialyzer_work)
 
 ---
 
